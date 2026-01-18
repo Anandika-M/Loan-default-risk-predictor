@@ -59,4 +59,4 @@ Accuracy is reported but not emphasized due to class imbalance in default predic
 
 ```bash
 pip install -r requirements.txt
-python credit_risk_model.py
+python main.py
